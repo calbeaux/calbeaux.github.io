@@ -18,6 +18,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first year Ph.D. student in the mechanical engineering department at the University of Texas at Austin. I am working under [Dr. Kevin Clarno](https://sites.utexas.edu/clarno/) focus on computational modeling and design of nuclear reactors. My research is nascent but will be centered on contribution to the design and implementation of a digit twin for the molten salt research reactor being constructed in Abilene, Texas. 
+I am a first year Ph.D. student in the mechanical engineering department at the University of Texas at Austin. I am working under [Dr. Kevin Clarno](https://sites.utexas.edu/clarno/) focusing on the computational modeling and design of nuclear reactors. My research is nascent but will be centered on contribution to the design and implementation of a digit twin for the molten salt research reactor being constructed in Abilene, Texas. 
 
 I recieved my B.S. in physics from the University of Texas at Austin in December 2022. 
